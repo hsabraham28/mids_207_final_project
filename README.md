@@ -9,9 +9,13 @@ The dataset being used for this project is the CIFAKE: Real and AI-Generated Syn
 
 ### Models
 We developed 12 models to classify images as real or fake (AI-generated).
+
 3 Basic Models: random forest regression, logistic regression, support vector machine
+
 4 Deep Learning Algorithms: convolutional neural network, feedforward neural network, AlexNet Architecture, Inception Architecture
+
 3 Transfer Learning Algorithms: MobileNetV3Large, VGG16, EfficientNetV2L
+
 2 Advanced Algorithms: Vision Transformer, Ensemble of CNN, AlexNet, VGG16
 
 ### Results
